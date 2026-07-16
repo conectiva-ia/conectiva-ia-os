@@ -12,6 +12,14 @@ Toda decisão relacionada à identidade da marca, produção de conteúdo, produ
 
 ---
 
+## 🧭 Princípio Fundamental
+
+A **Constituição da Marca** é o documento de maior autoridade deste repositório.
+
+Em caso de conflito entre documentos, a Constituição da Marca prevalece como fonte oficial da identidade, posicionamento e princípios da Conectiva IA.
+
+---
+
 ## 🎯 Objetivos
 
 - Definir a identidade da Conectiva IA.
