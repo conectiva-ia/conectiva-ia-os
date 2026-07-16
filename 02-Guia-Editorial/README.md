@@ -1,3 +1,3 @@
-# 02-Guia-Editorial
+# Guia-Editorial
 
 Em Contrução
