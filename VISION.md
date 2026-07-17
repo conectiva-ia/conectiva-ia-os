@@ -1,6 +1,6 @@
-# Vision
+# VISION
 
-Conectiva IA OS — Sistema Operacional de Conhecimento da Conectiva IA
+> **Conectiva IA OS — Sistema Operacional de Conhecimento da Conectiva IA**
 
 ## O que é a Conectiva IA OS
 
