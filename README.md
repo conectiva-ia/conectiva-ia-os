@@ -1,6 +1,6 @@
 # Conectiva IA OS
 
-> **Conectiva IA OS — Sistema Operacional de Conhecimento da Conectiva IA**
+> **Sistema Operacional de Conhecimento da Conectiva IA**
 
 ---
 
