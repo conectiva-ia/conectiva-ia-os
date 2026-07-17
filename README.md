@@ -35,17 +35,29 @@ Em caso de conflito entre documentos, a Constituição da Marca prevalece como f
 ## Estrutura
 
 📁 00 Constituição da Marca
+
 📁 01 Identidade Visual
+
 📁 02 Guia Editorial
+
 📁 03 Públicos
+
 📁 04 Soluções
+
 📁 05 Séries de Conteúdo
+
 📁 06 Biblioteca Técnica
+
 📁 07 Laboratório
+
 📁 08 Portfólio
+
 📁 09 Prompts
+
 📁 10 Agentes
+
 📁 98 Templates
+
 📁 99 Governança
 
 ---
