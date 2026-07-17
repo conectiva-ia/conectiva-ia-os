@@ -1,5 +1,9 @@
 # Conectiva IA OS
 
+> **Conectiva IA OS — Sistema Operacional de Conhecimento da Conectiva IA**
+
+---
+
 > Sistema Operacional de Conhecimento da Conectiva IA.
 
 A **Conectiva IA OS** é o repositório oficial da documentação estratégica, técnica e operacional da Conectiva IA.
