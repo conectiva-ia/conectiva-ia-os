@@ -1,16 +1,16 @@
 # Laboratório
 
-Esta pasta documenta testes, avaliações e experimentos realizados pela Conectiva IA.
+Esta pasta concentra estudos, experimentos, provas de conceito (PoCs), avaliações de ferramentas, benchmarks e pesquisas realizadas pela Conectiva IA.
+
+Nem todo experimento será incorporado ao ecossistema.
+
+Somente soluções aprovadas passam a integrar oficialmente o Portfólio ou a Biblioteca Técnica.
 
 ## Conteúdo
 
-- Ferramentas de IA
-- Comparativos
+- Avaliação de ferramentas
 - Benchmarks
-- Testes de software
-- Estudos de caso
-- Experimentos
-- Protótipos
-- Avaliações
-
-Somente ferramentas aprovadas poderão integrar o portfólio da Conectiva IA.
+- Provas de conceito
+- Estudos
+- Pesquisas
+- Testes de integração
