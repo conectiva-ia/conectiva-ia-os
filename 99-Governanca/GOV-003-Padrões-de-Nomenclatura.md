@@ -27,3 +27,9 @@ AGT-001-Arquiteto.md
 Sequenciais.
 
 Nunca reutilizados.
+
+---
+
+## Importante
+
+Os documentos da Conectiva IA OS serão escritos preferencialmente em português. Nomes oficiais de tecnologias, produtos, padrões internacionais e arquivos convencionais (README, CHANGELOG, LICENSE, GitHub, Supabase, WordPress etc.) serão mantidos em seu idioma original.
