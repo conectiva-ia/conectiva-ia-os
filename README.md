@@ -4,8 +4,6 @@
 
 ---
 
-> Sistema Operacional de Conhecimento da Conectiva IA.
-
 A **Conectiva IA OS** é o repositório oficial da documentação estratégica, técnica e operacional da Conectiva IA.
 
 Seu objetivo é organizar e preservar todo o conhecimento da empresa, servindo como fonte única de referência para pessoas, projetos, produtos e agentes de Inteligência Artificial.
