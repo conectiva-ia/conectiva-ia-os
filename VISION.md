@@ -2,6 +2,8 @@
 
 > **Conectiva IA OS — Sistema Operacional de Conhecimento da Conectiva IA**
 
+---
+
 ## O que é a Conectiva IA OS
 
 A Conectiva IA OS é o Sistema Operacional de Conhecimento da Conectiva IA.
